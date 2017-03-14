@@ -1,5 +1,5 @@
 {
-    "name": "rezzza/time-traveler",
+    "name": "serrvius/time-traveler",
     "description": "Travel the time in PHP",
     "keywords": ["time", "mock", "standalone"],
     "type": "standalone",
